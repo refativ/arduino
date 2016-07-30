@@ -1,0 +1,596 @@
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\ARM\Release\App.xbf
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\ARM\Release\shelfselect.xbf
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\ARM\Release\MainPage.xbf
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\ARM\Release\App4.xr.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\ARM\Release\App4.exe
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\ARM\Release\App4.pdb
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\ARM\Release\resources.pri
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\ARM\Release\AppxManifest.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\ARM\Release\App4.build.appxrecipe
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\App.g.i.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\App.g.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\shelfselect.g.i.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\shelfselect.g.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\MainPage.g.i.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\MainPage.g.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\XamlTypeInfo.g.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\App.xaml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\App.xbf
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\XamlSaveStateFile.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\shelfselect.xaml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\MainPage.xaml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\shelfselect.xbf
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\MainPage.xbf
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\App4.exe
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\App4.pdb
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\priconfig.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\priconfig.xml.intermediate
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\layout.resfiles
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\layout.resfiles.intermediate
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\resources.resfiles
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\resources.resfiles.intermediate
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\pri.resfiles
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\pri.resfiles.intermediate
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\qualifiers.txt
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\qualifiers.txt.intermediate
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\bin\ARM\Release\App4.exe.config
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\bin\ARM\Release\Newtonsoft.Json.dll
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.dll
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.dll
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\bin\ARM\Release\Newtonsoft.Json.xml
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.xml
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.xml
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\ARM\Release\App4.csproj.GenerateResource.Cache
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\App4.exe.config
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\App.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\returnShelf.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\shelfselect.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\MainPage.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\App4.xr.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\App4.exe
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\App4.pdb
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\resources.pri
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\AppxManifest.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\App4.build.appxrecipe
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\Newtonsoft.Json.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\Newtonsoft.Json.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\App4.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\App.g.i.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\App.g.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\returnShelf.g.i.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\returnShelf.g.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\shelfselect.g.i.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\shelfselect.g.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\MainPage.g.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\App.xaml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\returnShelf.xaml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\shelfselect.xaml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\MainPage.xaml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\App.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\returnShelf.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\shelfselect.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\MainPage.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\App4.exe
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\App4.pdb
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\App4.csproj.GenerateResource.Cache
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\priconfig.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\layout.resfiles
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\resources.resfiles
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\pri.resfiles
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\qualifiers.txt
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Registration.g.i.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Registration.g.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Registration.xaml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Registration.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\ARM\Release\Registration.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\App4.exe.config
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\App.xbf
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\Registration.xbf
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\returnShelf.xbf
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\shelfselect.xbf
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\MainPage.xbf
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\App4.xr.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\App4.exe
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\App4.pdb
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\resources.pri
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\AppxManifest.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\App4.build.appxrecipe
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\Newtonsoft.Json.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\Newtonsoft.Json.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\App4.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\App.g.i.cs
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\App.g.cs
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\Registration.g.i.cs
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\Registration.g.cs
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\returnShelf.g.i.cs
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\returnShelf.g.cs
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\shelfselect.g.i.cs
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\shelfselect.g.cs
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\MainPage.g.cs
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\App.xaml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\Registration.xaml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\returnShelf.xaml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\MainPage.xaml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\App.xbf
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\Registration.xbf
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\returnShelf.xbf
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\MainPage.xbf
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\shelfselect.xaml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\shelfselect.xbf
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\App4.exe
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\App4.pdb
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\App4.csproj.GenerateResource.Cache
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\priconfig.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\layout.resfiles
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\resources.resfiles
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\pri.resfiles
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\qualifiers.txt
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\App4\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\App4.exe.config
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\App.xbf
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\Registration.xbf
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\returnShelf.xbf
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\shelfselect.xbf
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\MainPage.xbf
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\App4.xr.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\App4.exe
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\App4.pdb
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\resources.pri
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\AppxManifest.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\App4.build.appxrecipe
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\Newtonsoft.Json.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\Newtonsoft.Json.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\App.g.i.cs
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\App.g.cs
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Registration.g.i.cs
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Registration.g.cs
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\returnShelf.g.i.cs
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\returnShelf.g.cs
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\shelfselect.g.i.cs
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\shelfselect.g.cs
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\MainPage.g.cs
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\App.xaml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Registration.xaml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\returnShelf.xaml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\shelfselect.xaml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\MainPage.xaml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\App.xbf
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Registration.xbf
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\returnShelf.xbf
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\shelfselect.xbf
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\MainPage.xbf
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\App4.exe
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\App4.pdb
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\App4.csproj.GenerateResource.Cache
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\priconfig.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\layout.resfiles
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\resources.resfiles
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\pri.resfiles
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\qualifiers.txt
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\App4.csprojResolveAssemblyReference.cache
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\App4.exe.config
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\App.xbf
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\Registration.xbf
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\returnShelf.xbf
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\shelfselect.xbf
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\MainPage.xbf
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\App4.xr.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\App4.exe
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\App4.pdb
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\resources.pri
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\AppxManifest.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\App4.build.appxrecipe
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\Newtonsoft.Json.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\Newtonsoft.Json.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\App4.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\App.g.i.cs
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\App.g.cs
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\Registration.g.i.cs
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\Registration.g.cs
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\returnShelf.g.i.cs
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\returnShelf.g.cs
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\shelfselect.g.i.cs
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\shelfselect.g.cs
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\MainPage.g.cs
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\App.xaml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\Registration.xaml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\returnShelf.xaml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\shelfselect.xaml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\MainPage.xaml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\App.xbf
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\Registration.xbf
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\returnShelf.xbf
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\shelfselect.xbf
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\MainPage.xbf
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\App4.exe
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\App4.pdb
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\App4.csproj.GenerateResource.Cache
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\priconfig.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\layout.resfiles
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\resources.resfiles
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\pri.resfiles
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\qualifiers.txt
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\App4\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\App4.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\App.g.i.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\App.g.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Registration.g.i.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Registration.g.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\returnShelf.g.i.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\returnShelf.g.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\shelfselect.g.i.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\shelfselect.g.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\MainPage.g.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\App.xaml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Registration.xaml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\returnShelf.xaml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\shelfselect.xaml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\MainPage.xaml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\App.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Registration.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\returnShelf.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\shelfselect.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\MainPage.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\App4.exe
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\App4.pdb
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\App4.exe.config
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\App.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\Registration.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\returnShelf.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\shelfselect.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\MainPage.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\App4.xr.xml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\App4.exe
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\App4.pdb
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\resources.pri
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\AppxManifest.xml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\App4.build.appxrecipe
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\Newtonsoft.Json.dll
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.dll
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.dll
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\Newtonsoft.Json.xml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.xml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.xml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\App4.csproj.GenerateResource.Cache
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\priconfig.xml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\layout.resfiles
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\resources.resfiles
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\pri.resfiles
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\qualifiers.txt
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\App4.exe.config
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\App.xbf
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\Registration.xbf
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\returnShelf.xbf
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\shelfselect.xbf
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\MainPage.xbf
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\App4.xr.xml
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\App4.exe
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\App4.pdb
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\resources.pri
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\AppxManifest.xml
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\App4.build.appxrecipe
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\Newtonsoft.Json.dll
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.dll
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.dll
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\Newtonsoft.Json.xml
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.xml
+C:\Users\roma\Desktop\8_6\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.xml
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\App4.csprojResolveAssemblyReference.cache
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\App.g.i.cs
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\App.g.cs
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Registration.g.i.cs
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Registration.g.cs
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\returnShelf.g.i.cs
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\returnShelf.g.cs
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\shelfselect.g.i.cs
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\shelfselect.g.cs
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\MainPage.g.cs
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\App.xaml
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Registration.xaml
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\returnShelf.xaml
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\shelfselect.xaml
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\MainPage.xaml
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\App.xbf
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Registration.xbf
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\returnShelf.xbf
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\shelfselect.xbf
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\MainPage.xbf
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\App4.exe
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\App4.pdb
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\App4.csproj.GenerateResource.Cache
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\priconfig.xml
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\layout.resfiles
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\resources.resfiles
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\pri.resfiles
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\qualifiers.txt
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\roma\Desktop\8_6\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\App4.exe.config
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\App.xbf
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\Registration.xbf
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\returnShelf.xbf
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\shelfselect.xbf
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\MainPage.xbf
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\App4.xr.xml
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\App4.exe
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\App4.pdb
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\resources.pri
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\AppxManifest.xml
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\App4.build.appxrecipe
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\Newtonsoft.Json.dll
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.dll
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.dll
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\Newtonsoft.Json.xml
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.xml
+C:\Users\roma\Desktop\latest files\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.xml
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\App4.csprojResolveAssemblyReference.cache
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\App.g.i.cs
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\App.g.cs
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\Registration.g.i.cs
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\Registration.g.cs
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\returnShelf.g.i.cs
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\returnShelf.g.cs
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\shelfselect.g.i.cs
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\shelfselect.g.cs
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\MainPage.g.cs
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\App.xaml
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\Registration.xaml
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\returnShelf.xaml
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\shelfselect.xaml
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\MainPage.xaml
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\App.xbf
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\Registration.xbf
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\returnShelf.xbf
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\shelfselect.xbf
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\MainPage.xbf
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\App4.exe
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\App4.pdb
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\App4.csproj.GenerateResource.Cache
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\priconfig.xml
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\layout.resfiles
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\resources.resfiles
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\pri.resfiles
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\qualifiers.txt
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\roma\Desktop\latest files\App1\App4\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\App4.exe.config
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\App.xbf
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\Registration.xbf
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\returnShelf.xbf
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\shelfselect.xbf
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\MainPage.xbf
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\App4.xr.xml
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\App4.exe
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\App4.pdb
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\resources.pri
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\AppxManifest.xml
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\App4.build.appxrecipe
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\Newtonsoft.Json.dll
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.dll
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.dll
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\Newtonsoft.Json.xml
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\System.Net.Http.Extensions.xml
+C:\Users\roma\Desktop\latestEdition\App1\App4\bin\ARM\Release\System.Net.Http.Primitives.xml
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\App4.csprojResolveAssemblyReference.cache
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\App.g.i.cs
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\App.g.cs
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\Registration.g.i.cs
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\Registration.g.cs
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\returnShelf.g.i.cs
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\returnShelf.g.cs
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\shelfselect.g.i.cs
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\shelfselect.g.cs
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\MainPage.g.cs
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\App.xaml
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\Registration.xaml
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\returnShelf.xaml
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\shelfselect.xaml
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\MainPage.xaml
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\App.xbf
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\Registration.xbf
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\returnShelf.xbf
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\shelfselect.xbf
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\MainPage.xbf
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\App4.exe
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\App4.pdb
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\App4.csproj.GenerateResource.Cache
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\priconfig.xml
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\layout.resfiles
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\resources.resfiles
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\pri.resfiles
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\qualifiers.txt
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\roma\Desktop\latestEdition\App1\App4\obj\ARM\Release\ProjectArchitectures.txt

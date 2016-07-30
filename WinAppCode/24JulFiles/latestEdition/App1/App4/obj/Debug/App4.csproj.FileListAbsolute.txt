@@ -1,0 +1,270 @@
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\App.xbf
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\shelfselect.xbf
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\MainPage.xbf
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\App4.xr.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\App4.exe
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\App4.pdb
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\resources.pri
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\AppxManifest.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\App4.build.appxrecipe
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\App.g.i.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\App.g.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\shelfselect.g.i.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\shelfselect.g.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\MainPage.g.i.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\MainPage.g.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\XamlTypeInfo.g.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\App.xaml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\App.xbf
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\XamlSaveStateFile.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\shelfselect.xaml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\MainPage.xaml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\shelfselect.xbf
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\MainPage.xbf
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\App4.exe
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\App4.pdb
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\priconfig.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\priconfig.xml.intermediate
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\layout.resfiles
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\layout.resfiles.intermediate
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\resources.resfiles
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\resources.resfiles.intermediate
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\pri.resfiles
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\pri.resfiles.intermediate
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\qualifiers.txt
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\qualifiers.txt.intermediate
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\ProjectArchitectures.txt
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\App4.exe.config
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\Newtonsoft.Json.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\System.Net.Http.Extensions.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\System.Net.Http.Primitives.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\Newtonsoft.Json.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\System.Net.Http.Extensions.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\bin\Debug\System.Net.Http.Primitives.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\App4.csprojResolveAssemblyReference.cache
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\App4.csproj.GenerateResource.Cache
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\bin\Debug\returnShelf.xbf
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\Debug\returnShelf.g.i.cs
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\Debug\returnShelf.g.cs
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\Debug\returnShelf.xaml
+C:\Users\Alexey Fekson\Documents\Visual Studio 2015\Projects\App1\App4\obj\Debug\returnShelf.xbf
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\App4.csprojResolveAssemblyReference.cache
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\App.g.i.cs
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\App.g.cs
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\returnShelf.g.i.cs
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\returnShelf.g.cs
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\shelfselect.g.i.cs
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\shelfselect.g.cs
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\MainPage.g.i.cs
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\MainPage.g.cs
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\App.xaml
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\returnShelf.xaml
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\shelfselect.xaml
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\MainPage.xaml
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\App.xbf
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\returnShelf.xbf
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\shelfselect.xbf
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\MainPage.xbf
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\XamlSaveStateFile.xml
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\App4.exe
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\App4.pdb
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\App4.exe.config
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\App.xbf
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\returnShelf.xbf
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\shelfselect.xbf
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\MainPage.xbf
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\App4.xr.xml
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\App4.exe
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\App4.pdb
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\resources.pri
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\AppxManifest.xml
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\App4.build.appxrecipe
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\roma\Desktop\rom\App1\App4\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\App4.csproj.GenerateResource.Cache
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\priconfig.xml
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\priconfig.xml.intermediate
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\layout.resfiles
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\layout.resfiles.intermediate
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\resources.resfiles
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\resources.resfiles.intermediate
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\pri.resfiles
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\pri.resfiles.intermediate
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\qualifiers.txt
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\qualifiers.txt.intermediate
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\roma\Desktop\rom\App1\App4\obj\Debug\ProjectArchitectures.txt
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\App4.exe.config
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\App.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\returnShelf.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\shelfselect.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\MainPage.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\App4.xr.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\App4.exe
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\App4.pdb
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\resources.pri
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\AppxManifest.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\App4.build.appxrecipe
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\App4.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\App.g.i.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\App.g.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\returnShelf.g.i.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\returnShelf.g.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\shelfselect.g.i.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\shelfselect.g.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\MainPage.g.i.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\MainPage.g.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\App.xaml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\returnShelf.xaml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\shelfselect.xaml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\MainPage.xaml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\App.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\returnShelf.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\shelfselect.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\MainPage.xbf
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\App4.exe
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\App4.pdb
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\App4.csproj.GenerateResource.Cache
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\priconfig.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\priconfig.xml.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\layout.resfiles
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\layout.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\resources.resfiles
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\resources.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\pri.resfiles
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\pri.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\qualifiers.txt
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\App4\obj\Debug\ProjectArchitectures.txt
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\App4.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\App.g.i.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\App.g.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\Registration.g.i.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\Registration.g.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\returnShelf.g.i.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\returnShelf.g.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\shelfselect.g.i.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\shelfselect.g.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\MainPage.g.i.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\MainPage.g.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\App.xaml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\Registration.xaml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\returnShelf.xaml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\shelfselect.xaml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\App.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\Registration.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\returnShelf.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\shelfselect.xbf
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\App4.exe
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\App4.pdb
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\MainPage.xaml
+C:\Users\Alexey Fekson\Desktop\8_6\App1\App4\obj\Debug\MainPage.xbf
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\App4.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\App.g.i.cs
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\App.g.cs
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\Registration.g.i.cs
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\Registration.g.cs
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\returnShelf.g.i.cs
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\returnShelf.g.cs
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\shelfselect.g.i.cs
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\shelfselect.g.cs
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\MainPage.g.i.cs
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\MainPage.g.cs
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\App.xaml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\returnShelf.xaml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\shelfselect.xaml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\App.xbf
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\returnShelf.xbf
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\shelfselect.xbf
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\App4.exe
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\App4.pdb
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\Registration.xaml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\MainPage.xaml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\Registration.xbf
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\MainPage.xbf
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\App4.exe.config
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\App.xbf
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\Registration.xbf
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\returnShelf.xbf
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\shelfselect.xbf
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\MainPage.xbf
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\App4.xr.xml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\App4.exe
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\App4.pdb
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\resources.pri
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\AppxManifest.xml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\App4.build.appxrecipe
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\App4.csproj.GenerateResource.Cache
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\priconfig.xml
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\priconfig.xml.intermediate
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\layout.resfiles
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\layout.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\resources.resfiles
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\resources.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\pri.resfiles
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\pri.resfiles.intermediate
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\qualifiers.txt
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Alexey Fekson\Desktop\22JulFiles\latestEdition\App1\App4\obj\Debug\ProjectArchitectures.txt

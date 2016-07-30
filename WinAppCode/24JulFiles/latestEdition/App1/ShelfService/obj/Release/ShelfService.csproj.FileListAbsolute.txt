@@ -1,0 +1,1000 @@
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\AutoMapper.Net4.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ShelfService.dll.config
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ShelfService.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ShelfService.pdb
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Autofac.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\AutoMapper.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\EntityFramework.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\EntityFramework.SqlServer.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Data.Edm.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Data.OData.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.ServiceBus.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Newtonsoft.Json.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Owin.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\RazorEngine.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Net.Http.Formatting.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Spatial.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Web.Cors.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Web.Http.Cors.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Web.Http.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Web.Http.OData.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Web.Http.Owin.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Web.Http.Tracing.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Web.Razor.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Autofac.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\AutoMapper.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\EntityFramework.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\EntityFramework.SqlServer.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Data.Edm.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Data.OData.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.ServiceBus.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\Newtonsoft.Json.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\RazorEngine.pdb
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\RazorEngine.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Net.Http.Formatting.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Spatial.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Web.Http.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Web.Http.Cors.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Web.Http.OData.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Web.Http.Owin.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Web.Http.Tracing.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\System.Web.Razor.xml
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\de\Microsoft.Data.Edm.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\es\Microsoft.Data.Edm.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\it\Microsoft.Data.Edm.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\de\Microsoft.Data.OData.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\es\Microsoft.Data.OData.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\fr\Microsoft.Data.OData.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\it\Microsoft.Data.OData.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ja\Microsoft.Data.OData.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ko\Microsoft.Data.OData.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ru\Microsoft.Data.OData.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\de\System.Spatial.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\es\System.Spatial.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\fr\System.Spatial.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\it\System.Spatial.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ja\System.Spatial.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ko\System.Spatial.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\ru\System.Spatial.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\zh-Hans\System.Spatial.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\bin\zh-Hant\System.Spatial.resources.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\obj\Release\ShelfService.csprojResolveAssemblyReference.cache
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\obj\Release\ShelfService.dll
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\ShelfService\obj\Release\ShelfService.pdb
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\AutoMapper.Net4.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ShelfService.dll.config
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ShelfService.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ShelfService.pdb
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Autofac.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\AutoMapper.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\EntityFramework.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\EntityFramework.SqlServer.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Data.Edm.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Data.OData.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.ServiceBus.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Newtonsoft.Json.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Owin.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\RazorEngine.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Net.Http.Formatting.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Spatial.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Web.Cors.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Web.Http.Cors.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Web.Http.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Web.Http.OData.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Web.Http.Owin.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Web.Http.Tracing.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Web.Razor.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Autofac.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\AutoMapper.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\EntityFramework.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\EntityFramework.SqlServer.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Data.Edm.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Data.OData.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.ServiceBus.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\Newtonsoft.Json.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\RazorEngine.pdb
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\RazorEngine.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Net.Http.Formatting.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Spatial.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Web.Http.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Web.Http.Cors.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Web.Http.OData.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Web.Http.Owin.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Web.Http.Tracing.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\System.Web.Razor.xml
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\de\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\es\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\fr\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\it\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ja\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ko\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\ru\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\obj\Release\ShelfService.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\obj\Release\ShelfService.dll
+C:\Users\Alexey Fekson\Desktop\rom\rom\App1\ShelfService\obj\Release\ShelfService.pdb
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\AutoMapper.Net4.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ShelfService.dll.config
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ShelfService.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ShelfService.pdb
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Autofac.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\AutoMapper.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\EntityFramework.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\EntityFramework.SqlServer.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Data.Edm.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Data.OData.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.ServiceBus.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Newtonsoft.Json.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Owin.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\RazorEngine.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Net.Http.Formatting.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Spatial.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Web.Cors.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Web.Http.Cors.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Web.Http.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Web.Http.OData.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Web.Http.Owin.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Web.Http.Tracing.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Web.Razor.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Autofac.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\AutoMapper.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\EntityFramework.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\EntityFramework.SqlServer.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Data.Edm.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Data.OData.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.ServiceBus.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\Newtonsoft.Json.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\RazorEngine.pdb
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\RazorEngine.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Net.Http.Formatting.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Spatial.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Web.Http.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Web.Http.Cors.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Web.Http.OData.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Web.Http.Owin.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Web.Http.Tracing.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\System.Web.Razor.xml
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\de\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\es\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\fr\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\it\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ja\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ko\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\ru\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\obj\Release\ShelfService.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\obj\Release\ShelfService.dll
+C:\Users\Alexey Fekson\Desktop\App1\29_5\App1\ShelfService\obj\Release\ShelfService.pdb
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\obj\Release\ShelfService.csprojResolveAssemblyReference.cache
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\obj\Release\ShelfService.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\obj\Release\ShelfService.pdb
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\AutoMapper.Net4.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ShelfService.dll.config
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ShelfService.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ShelfService.pdb
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Autofac.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\AutoMapper.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\EntityFramework.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\EntityFramework.SqlServer.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Data.Edm.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Data.OData.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.ServiceBus.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Newtonsoft.Json.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Owin.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\RazorEngine.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Net.Http.Formatting.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Spatial.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Cors.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Cors.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.OData.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Owin.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Tracing.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Razor.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Autofac.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\AutoMapper.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\EntityFramework.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\EntityFramework.SqlServer.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Data.Edm.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Data.OData.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.ServiceBus.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\Newtonsoft.Json.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\RazorEngine.pdb
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\RazorEngine.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Net.Http.Formatting.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Spatial.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Cors.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.OData.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Owin.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Tracing.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Razor.xml
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\de\System.Spatial.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\es\System.Spatial.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\fr\System.Spatial.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\it\System.Spatial.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ja\System.Spatial.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ko\System.Spatial.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\ru\System.Spatial.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\roma\Desktop\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\AutoMapper.Net4.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ShelfService.dll.config
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ShelfService.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ShelfService.pdb
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Autofac.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\AutoMapper.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\EntityFramework.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\EntityFramework.SqlServer.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Data.Edm.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Data.OData.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.ServiceBus.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Newtonsoft.Json.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Owin.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\RazorEngine.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Net.Http.Formatting.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Spatial.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Cors.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Cors.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.OData.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Owin.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Tracing.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Razor.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Autofac.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\AutoMapper.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\EntityFramework.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\EntityFramework.SqlServer.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Data.Edm.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Data.OData.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.ServiceBus.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\Newtonsoft.Json.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\RazorEngine.pdb
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\RazorEngine.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Net.Http.Formatting.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Spatial.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Cors.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.OData.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Owin.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Tracing.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Razor.xml
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\de\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\es\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\fr\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\it\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ja\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ko\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\ru\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\obj\Release\ShelfService.csprojResolveAssemblyReference.cache
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\obj\Release\ShelfService.dll
+C:\Users\Alexey Fekson\Desktop\29_5\29_5\App1\29_5\App1\ShelfService\obj\Release\ShelfService.pdb
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\AutoMapper.Net4.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ShelfService.dll.config
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ShelfService.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ShelfService.pdb
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Autofac.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\AutoMapper.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\EntityFramework.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\EntityFramework.SqlServer.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Data.Edm.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Data.OData.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.ServiceBus.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Newtonsoft.Json.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Owin.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\RazorEngine.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Net.Http.Formatting.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Spatial.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Cors.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Cors.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.OData.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Owin.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Tracing.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Razor.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Autofac.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\AutoMapper.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\EntityFramework.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\EntityFramework.SqlServer.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Data.Edm.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Data.OData.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.ServiceBus.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\Newtonsoft.Json.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\RazorEngine.pdb
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\RazorEngine.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Net.Http.Formatting.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Spatial.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Cors.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.OData.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Owin.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Http.Tracing.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\System.Web.Razor.xml
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\de\System.Spatial.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\es\System.Spatial.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\fr\System.Spatial.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\it\System.Spatial.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ja\System.Spatial.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ko\System.Spatial.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\ru\System.Spatial.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\obj\Release\ShelfService.csprojResolveAssemblyReference.cache
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\obj\Release\ShelfService.dll
+C:\Users\roma\Desktop\6.6 project\29_5\29_5\App1\29_5\App1\ShelfService\obj\Release\ShelfService.pdb
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\AutoMapper.Net4.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ShelfService.dll.config
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ShelfService.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ShelfService.pdb
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Autofac.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\AutoMapper.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\EntityFramework.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\EntityFramework.SqlServer.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Data.Edm.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Data.OData.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.ServiceBus.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Newtonsoft.Json.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Owin.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\RazorEngine.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Net.Http.Formatting.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Spatial.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Web.Cors.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Web.Http.Cors.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Web.Http.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Web.Http.OData.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Web.Http.Owin.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Web.Http.Tracing.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Web.Razor.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Autofac.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\AutoMapper.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\EntityFramework.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\EntityFramework.SqlServer.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Data.Edm.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Data.OData.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.ServiceBus.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\Newtonsoft.Json.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\RazorEngine.pdb
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\RazorEngine.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Net.Http.Formatting.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Spatial.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Web.Http.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Web.Http.Cors.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Web.Http.OData.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Web.Http.Owin.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Web.Http.Tracing.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\System.Web.Razor.xml
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\de\System.Spatial.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\es\System.Spatial.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\fr\System.Spatial.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\it\System.Spatial.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ja\System.Spatial.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ko\System.Spatial.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\ru\System.Spatial.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\obj\Release\ShelfService.csprojResolveAssemblyReference.cache
+C:\Users\roma\Desktop\8_6\App1\ShelfService\obj\Release\ShelfService.dll
+C:\Users\roma\Desktop\8_6\App1\ShelfService\obj\Release\ShelfService.pdb
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\AutoMapper.Net4.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ShelfService.dll.config
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ShelfService.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ShelfService.pdb
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Autofac.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\AutoMapper.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\EntityFramework.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\EntityFramework.SqlServer.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Data.Edm.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Data.OData.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.ServiceBus.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Newtonsoft.Json.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Owin.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\RazorEngine.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Net.Http.Formatting.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Spatial.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Web.Cors.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Web.Http.Cors.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Web.Http.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Web.Http.OData.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Web.Http.Owin.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Web.Http.Tracing.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Web.Razor.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Autofac.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\AutoMapper.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\EntityFramework.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\EntityFramework.SqlServer.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Data.Edm.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Data.OData.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.ServiceBus.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\Newtonsoft.Json.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\RazorEngine.pdb
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\RazorEngine.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Net.Http.Formatting.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Spatial.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Web.Http.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Web.Http.Cors.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Web.Http.OData.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Web.Http.Owin.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Web.Http.Tracing.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\System.Web.Razor.xml
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\de\System.Spatial.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\es\System.Spatial.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\fr\System.Spatial.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\it\System.Spatial.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ja\System.Spatial.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ko\System.Spatial.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\ru\System.Spatial.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\obj\Release\ShelfService.csprojResolveAssemblyReference.cache
+C:\Users\roma\Desktop\latest files\App1\ShelfService\obj\Release\ShelfService.dll
+C:\Users\roma\Desktop\latest files\App1\ShelfService\obj\Release\ShelfService.pdb

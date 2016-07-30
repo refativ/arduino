@@ -1,0 +1,4 @@
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\Catel.WP80.Application1\obj\Debug\Catel.WP80.Application1.csprojResolveAssemblyReference.cache
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\Catel.WP80.Application1\obj\Debug\App.g.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\Catel.WP80.Application1\obj\Debug\Views\MainPage.g.cs
+c:\Users\alexey fekson\documents\visual studio 2015\Projects\App1\Catel.WP80.Application1\obj\Debug\Catel.WP80.Application1.g.resources
